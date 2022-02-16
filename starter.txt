@@ -1,0 +1,13 @@
+Text Mate works only in MAC OS and not in Windows. Sublime Text is a good editor to work with in Windows:
+
+Steps to open Sublime Text from Git bash (after installing Sublime text first in system) are as follows:
+
+In Git bash(you can open from Search) type the below 2 commands:
+
+ alias subl="/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
+
+ subl . 
+Instead of subl . you can also open a specific file or create a new file using below:
+
+ subl Filename.txt
+This command subl Filename.txt will create a new file with name as Filename.txt otherwise will open an existing file with the same name if the file already exists.
