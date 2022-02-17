@@ -1,0 +1,19 @@
+
+
+
+gkjgirejdvn,dmvnmnerngdfv vekrjgnrmvv df,gndfgndfv vfndfn
+
+
+
+
+If you are on Windows just use something else such as notepad or notepad++. – 
+Hugo y
+ Sep 14 2019 at 12:58
+1
+If the editor is installed add it to $PATH. – 
+phd
+ Sep 14 2019 at 13:02
+2
+Under git bash, you can use vi. I don't think git bash has a package manager, so installing mate there is a bit of a pain (see Installing Programs on Git Bash). On Windows 10, I'd recommend installing the WSL (Windows Subsystem for Linux) for a better Linux environment. – 
+lurker
+ Sep 14 2019 at 13:20
